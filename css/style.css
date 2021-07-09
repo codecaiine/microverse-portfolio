@@ -9,32 +9,32 @@ html {
 }
 
 .container {
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 .navbar-light .navbar-brand {
-    color: #5571FE;
+    color: #5571fe;
     font-size: 18px;
     font-family: 'Poppins';
 }
 
 .navbar-light .navbar-nav .nav-link {
     font-family: 'Poppins';
-    padding-right: .5rem;
-    padding-left: .5rem;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
     font-size: 18px;
     font-weight: 150px;
-    color: rgba(0, 0, 0, .9);
+    color: rgba(0, 0, 0, 0.9);
 }
 
 .navbar-toggler-icon {
-    color: #5571FE;
-    border-color: #ffffff;
+    color: #5571fe;
+    border-color: #fff;
 }
 
 .navbar-light .navbar-toggler {
     border-color: white;
-    color: #5571FE;
+    color: #5571fe;
 }
 
 body {
@@ -47,7 +47,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 .primary-text {
@@ -55,8 +55,8 @@ header {
     width: 920px;
     font-family: 'Poppins', sans-serif;
     height: 122px;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
     font-family: Poppins;
     font-style: normal;
     font-weight: 700;
@@ -65,11 +65,11 @@ header {
     display: flex;
     align-items: center;
     letter-spacing: 0.37px;
-    color: #091E42;
+    color: #091e42;
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 12px 0px;
+    margin: 12px 0;
 }
 
 .section-about {
@@ -90,7 +90,7 @@ header {
 }
 
 .section-one .content {
-    background-color: #ffffff;
+    background-color: #fff;
     padding: 20px;
     border-radius: 20px;
 }
@@ -99,13 +99,13 @@ header {
     position: static;
     width: 117px;
     height: 24px;
-    left: 0px;
-    top: 0px;
+    left: 0;
+    top: 0;
     text-transform: uppercase;
 }
 
 .twitter {
-    background: #505F79;
+    background: #505f79;
 }
 
 .media {
@@ -118,5 +118,5 @@ header {
 .media a {
     margin-right: 16px;
     font-size: 21px;
-    color: #505F79;
+    color: #505f79;
 }
