@@ -6,7 +6,12 @@ Project: Build my personal portfolio.
 The project is inspired by the figma microverse template 1 (https://figma.com/)
 It use to learn how parse a Figma design to create a UI, and use Flexbox to place elements in the page.
 
+
+**Mobile Version**
+
 ![screenshot](./portfolio-mobile.PNG)
+
+ **Web version**
 
 ![screenshot](./portfolio-web.PNG)
  
