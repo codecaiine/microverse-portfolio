@@ -18,7 +18,7 @@ It use to learn how parse a Figma design to create a UI, and use Flexbox to plac
 
 ## Demo 
 
-[Live Demo Link] (https://portfoliocodecaiine.github.io/)
+[Live Demo Link](https://portfoliocodecaiine.github.io/)
  
 ## Stacks
 
