@@ -4,7 +4,7 @@
 
 This the beging of porfolio website.
 
-This is exercice first coding exercice with Microverse
+This is exercice first coding exercice with Microverse. Portfolio: setup and mobile version skeleton.
 
 ## Project stacks
 
