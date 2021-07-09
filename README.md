@@ -56,9 +56,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Tanks to Microverse which give me a chance to join this progam
-- My learning and coding partners
-- etc
+- Thanks to Microverse to made it
+- learning and coding partners
 
 ## 📝 License
 
