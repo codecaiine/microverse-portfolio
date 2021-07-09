@@ -32,5 +32,3 @@
           [ -f .stylelintrc.json ] || wget https://raw.githubusercontent.com/microverseinc/linters-config/master/html-css/.stylelintrc.json
       - name: Stylelint Report
         run: npx stylelint "**/*.scss"
-- name: Lint Action
-  uses: wearerequired/lint-action@v1.10.0
