@@ -2,15 +2,29 @@
 
 # Portfolio 
 
-This the beging of porfolio website.
+Project: Build my personal portfolio.
+The project is inspired by the figma microverse template 1 (https://figma.com/)
+It use to learn how parse a Figma design to create a UI, and use Flexbox to place elements in the page.
 
-This is exercice first coding exercice with Microverse. Portfolio: setup and mobile version skeleton.
+![screenshot](./portfolio-mobile.png)
 
-## Project stacks
+![screenshot](./portfolio-mobile.png)
+ 
+
+## Demo 
+
+[Live Demo Link] (https://portfoliocodecaiine.github.io/)
+ 
+## Stacks
 
 - git/github
 - html/css
 - linters (html - css )
+
+## Get Started
+
+- Clone this project on your local environment 
+- Get your browser update 
 
 
 
@@ -18,6 +32,8 @@ This is exercice first coding exercice with Microverse. Portfolio: setup and mob
 
 👤 **codecaiine**
 
+- Full: Yannick-Noel AKA
+- Location: Côte d'Ivoire
 - GitHub: [@codecaiine](https://github.com/codecaiine)
 - Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
