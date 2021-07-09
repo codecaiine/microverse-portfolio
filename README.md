@@ -1,43 +1,48 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Portfolio portfolio
 
-# Portfolio 
-
-Project: Build my personal portfolio.
 The project is inspired by the figma microverse template 1 (https://figma.com/)
-It use to learn how parse a Figma design to create a UI, and use Flexbox to place elements in the page.
+The goal of this project is to learn how parse a Figma design to create a UI, and use Flexbox to place elements in the page.
 
-
-**Mobile Version**
 
 ![screenshot](./portfolio-mobile.PNG)
 
- **Web version**
 
 ![screenshot](./portfolio-web.PNG)
+
+- set up a new repository and prepare it for development using best practices.
+- build mobile website.
  
 
-## Demo 
+## Live Demo
 
 [Live Demo Link](https://portfoliocodecaiine.github.io/)
  
-## Stacks
+## Built With
 
-- git/github
-- html/css
-- linters (html - css )
+- HTML
+- CSS
+- HTML&CSS Linter
 
 ## Get Started
 
-- Clone this project on your local environment 
-- Get your browser update 
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
+
+Run the command below from the Terminal:
+
+    git clone <URL> in your terminal
+
+	   cd microverse-portfolio
+
+	   start index.html
 
 
 
 ## Authors
 
-👤 **codecaiine**
+👤 **Author**
 
-- Full: Yannick-Noel AKA
+- Fullname: Yannick-Noel AKA
 - Location: Côte d'Ivoire
 - GitHub: [@codecaiine](https://github.com/codecaiine)
 - Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
@@ -57,7 +62,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to Microverse to made it
-- learning and coding partners
+- My learning and coding partners
 
 ## 📝 License
 
