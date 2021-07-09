@@ -36,9 +36,9 @@ Run the command below from the Terminal:
 
           git clone <URL> in your terminal
 
-	   cd microverse-portfolio
+	  cd microverse-portfolio
 
-	   start index.html
+	  start index.html
 
 
 
