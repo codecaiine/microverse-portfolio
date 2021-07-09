@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-    git clone <URL> in your terminal
+           git clone <URL> in your terminal
 
 	   cd microverse-portfolio
 
