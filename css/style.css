@@ -148,7 +148,10 @@ header {
   border: 1px solid #dfe1e6;
 }
 
-
+.work-section img {
+  width: 480px;
+  height: 500px;
+}
 
 .flex-item-left {
   padding: 10px;
@@ -158,6 +161,21 @@ header {
 .flex-item-right {
   padding: 10px;
   flex: 50%;
+}
+
+.stacks li {
+  list-style: none;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #f7f7f9;
+}
+
+.grid-container > li {
+  background-color: #f7f7f9;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+  width: 170px;
+  border-radius: 8px;
 }
 
 .work-title {
@@ -307,17 +325,8 @@ header {
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
   padding: 10px;
-  border: 0px;
+  border: 0;
   background: transparent;
-}
-
-.grid-container > li {
-  background-color: #f7f7f9;
-  text-align: center;
-  padding: 20px 0;
-  font-size: 30px;
-  width: 170px;
-  border-radius: 8px;
 }
 
 .grid-container > li img {
@@ -335,24 +344,13 @@ header {
   padding-top: 30px;
 }
 
-.stacks li {
-  list-style: none;
-  padding-bottom: 10px;
-  border-bottom: 2px solid #f7f7f9;
-}
-
 .section-contact button {
   display: flex;
   justify-content: center;
 }
 
-.work-section img {
-  width: 480px;
-  height: 500px;
-}
-
 textarea {
-    width: 537px;
+  width: 537px;
 }
 
 @media (max-width: 800px) {
@@ -392,27 +390,27 @@ textarea {
   .btn-contact {
     background: #fff;
   }
-    
-  .description {
-  padding: 40px;
-  position: static;
-  width: auto;
-  left: 24px;
-  top: 146px;
-  margin-bottom: 15px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 24px;
-  color: #344563;
-  flex: none;
-  order: 1;
-  flex-grow: 0;
-  margin: 24px 0;
-  word-break: break-all;
-  word-wrap: break-word;
-  
-}
-    
 
+  .description {
+    padding: 40px;
+    position: static;
+    width: auto;
+    left: 24px;
+    top: 146px;
+    margin-bottom: 15px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color: #344563;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    word-break: break-all;
+    word-wrap: break-word;
+  }
+
+  textarea {
+    width: auto;
+  }
 }
