@@ -7,11 +7,14 @@ The goal of this project is to learn how parse a Figma design to create a UI, an
 
 - Screenshoot 1
 
-![screenshot](./portfolio-mobile.PNG)
+![screenshot](./ScreeM.PNG)
 
 
 - Screenshoot 2
-![screenshot](./portfolio-web.PNG)
+![screenshot](./S.PNG)
+
+- Screenshoot 2
+![screenshot](./SM2.PNG)
 
 - set up a new repository and prepare it for development using best practices.
 - build mobile website.
